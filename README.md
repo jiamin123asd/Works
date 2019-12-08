@@ -83,7 +83,9 @@ private void addListener() {
 
 
 **运行截图：**  
-![](https://github.com/jiamin123asd/Works/blob/master/%E4%BB%A3%E7%A0%811.png)
+
+![](https://github.com/jiamin123asd/Works/blob/master/%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.png)
+![](https://github.com/jiamin123asd/Works/blob/master/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
 **编程感想：**  
 本次实验是一次综合性的实验，也是最难的一次实验，里面包含了这学期讲过的所有知识点，
